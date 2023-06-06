@@ -128,7 +128,7 @@ _coming soon.._
 ## Lists
 _coming soon.._
 
-# TYPES
+# 5. TYPES
 - Learn about querying and reading type signatures
 - take a closer look at different kinds of polymorphism
 - look at type inference and how to declare types for our functions
