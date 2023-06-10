@@ -162,6 +162,11 @@ _coming soon.._
 
 ![image](https://github.com/jonathancastro21/haskhell/assets/131474704/0d9ba300-637d-4f19-96cb-b76287b045d3)
 
+## Anmerkung
+
+![image](https://github.com/jonathancastro21/haskhell/assets/131474704/b15d27dd-9474-4017-a2b1-d02da8bb0dd6)
+
+
 
 
 
