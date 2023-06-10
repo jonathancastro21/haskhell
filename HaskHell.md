@@ -133,11 +133,34 @@ _coming soon.._
 - take a closer look at different kinds of polymorphism
 - look at type inference and how to declare types for our functions
 
+-----------------------------------------------------------------------------------
+
+# 4 Auswertung 
+
+## Substitutionsmodell
+
+## Auswertung eines funktionalen Ausdrucks A
+
+![image](https://github.com/jonathancastro21/haskhell/assets/131474704/94860820-c45c-45b9-96f9-fb3ebd8b23ab)
 
 
+## Auswertung eines Sonderausdrucks `if B then A1 else  A2`
 
+![image](https://github.com/jonathancastro21/haskhell/assets/131474704/2633d1a9-4872-4983-97f7-9e1059c57e3b)
 
+## Auswertung eines Sonderausdrucks `K = W`
 
+![image](https://github.com/jonathancastro21/haskhell/assets/131474704/8beb07da-b54b-44a5-b3e1-6df06b422df8)
+
+## Auswertung eines Sonderausdrucks `let K = W in A`
+
+![image](https://github.com/jonathancastro21/haskhell/assets/131474704/06611f83-7d9c-4d4c-91b4-91e6e2dcfc06)
+
+## Übung
+
+![image](https://github.com/jonathancastro21/haskhell/assets/131474704/476d1683-960b-4d83-aaef-0e1eab0bdb09)
+
+![image](https://github.com/jonathancastro21/haskhell/assets/131474704/0d9ba300-637d-4f19-96cb-b76287b045d3)
 
 
 
